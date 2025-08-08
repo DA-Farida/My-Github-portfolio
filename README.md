@@ -5,4 +5,4 @@
 🚀Currently transitionning into the possinate world of data to combine my knowledge of marketing and the precision of data analytics.<br/>
 Dive into my journey.
 
-![Farida's GitHub stats](https://github-readme-stats.vercel.app/api?username=DA-Farida&show_icons=true&theme=jolly)
+[![Farida's GitHub stats](https://github-readme-stats.vercel.app/api?username=DA-Farida&count_private=true&show_icons=true&theme=jolly&hide_rank=false)](https://github.com/DA-Farida/github-readme-stats)
